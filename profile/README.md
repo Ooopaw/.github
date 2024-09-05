@@ -11,7 +11,9 @@
 | 6       |Michellene Kyle Rivera  | michikoo0 |
 | 7       |Viva Lou Dapitan        | watashiwabakadesu
 | 8       |Angel Beateice Jumawan  | abjmwn |
+| 10      | Ayman S. Angintaopan | OppenRaiden |
 | 14      | Barquilla, Christian Paul | Azwraith |
+| 15      | Yusoph U. H.Ali | Ooopaw |
 |20       |John Gylor Paypa        | JohnnySimmer |
 |11       |Mary Jane Felomino      | Origami |
-| 10 | Jan Christoffel Uy | JanUy64
+
